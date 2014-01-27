@@ -10,6 +10,6 @@ void funcion1(void){
 }
 
 void funcion2(void){
-	printf("Funcion 2\n");
+	printf("Funcion 2\n")
 }
 
