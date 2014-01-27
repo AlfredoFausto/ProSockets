@@ -1,6 +1,6 @@
 //test.c
 
 int test(void){
-	return 0;
+	return 3;
 }
 

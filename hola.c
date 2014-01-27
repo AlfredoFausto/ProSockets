@@ -4,6 +4,7 @@
 void main(void) {
 	test();
 	printf("Hola Mundo\n");
+        printf("Adios Mundo\n");
 }
 
 void funcion2(void) {
